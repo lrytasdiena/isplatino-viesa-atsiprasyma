@@ -1,0 +1,6 @@
+public/wp/
+.env
+.idea
+.git/
+database-*.sh
+public/li/
